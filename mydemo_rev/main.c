@@ -19,7 +19,11 @@
 unsigned char RxBuf[5]={0x01,0x03,0x05,0x07,0x09};
 unsigned short tdata = 0;
 /*zht git test*/
+<<<<<<< HEAD
 unsigned char gitTest = 20;
+=======
+unsigned char gitTest = 10;
+>>>>>>> b1f0e529c0f1aa89ae1a7ecd05dfc5a631b126cc
 
 void LCD_Init3(void);
 
