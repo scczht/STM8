@@ -19,7 +19,7 @@
 unsigned char RxBuf[5]={0x01,0x03,0x05,0x07,0x09};
 unsigned short tdata = 0;
 /*zht git test*/
-unsigned char gitTest = 40;
+unsigned char gitTest = 50;
 
 
 
