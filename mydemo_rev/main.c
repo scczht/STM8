@@ -25,6 +25,7 @@ unsigned char gitTest = 90;
 
 
 
+
 void Init_Uart2(void)
 {
     UART2_DeInit();
